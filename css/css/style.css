@@ -1,0 +1,76 @@
+@font-face {
+    font-family: 'iran_sansregular';
+    src: url('../fonts/iran_sans.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/iran_sans.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/iran_sans.woff') format('woff'), /* Pretty Modern Browsers */
+    url('../fonts/iran_sans.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/iran_sans.svg#svgiran_sans') format('svg'); /* Legacy iOS */
+}
+
+
+.headline{
+  height: 110px;
+  font-family: 'iran_sansregular';
+
+}
+.headline h2{
+  font-size: 48px;
+  text-align: center;
+  padding-top: 1em;
+  padding-bottom: .3em;
+  color: #00a9f7;
+}
+.headtext{
+  font-family: 'iran_sansregular';
+  font-size: 22px;
+  text-align: right;
+  direction: rtl;
+  line-height: 38px;
+  color: #1e1e1e;
+}
+
+#ta10mehr{
+  font-size: 48px;
+  color: #626262;
+}
+
+#freeUse{
+  font-size: 48px;
+  color: #00a9f7;
+}
+.center{
+  text-align: center;
+}
+
+.centerdiv{
+  margin: 0 auto;
+  padding-bottom: 1em;
+}
+
+
+.btn-primary {
+    color: #fff;
+    background-color: #00a9f7 !important;
+    border-color: #00a9f7 !important;
+}
+.blue{
+
+border-bottom: 1px solid #00a9f7;
+
+}
+
+
+#loading_img{
+  /* width: 900px;
+  height: 900px; */
+  background-color: red;
+  position: relative;
+}
+
+.sendbtn{
+  font-size: 2em;
+  width: 12em;
+}
+.sec{
+  margin: 0 auto;
+}
